@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators.
-- 📫 How to reach me <p><a href="unvernisable.tech">unvernisable.tech</a></p>
+- 📫 How to reach me <a href="unvernisable.tech">🌐 unvernisable.tech</a>
 - 😄 Pronouns: dheera 
 
 
