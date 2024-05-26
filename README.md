@@ -5,8 +5,8 @@ Javascript Developer
 --------------------
 
 *   🌍  I'm based in Bengaluru
-*   ✉️  You can contact me at [punithify@gmail.com](mailto:punithify@gmail.com)
-*   🧠  I'm learning Astro,Vue
+*   ✉️  You can contact me at [punith.raj@mca.christuniversity.in](mailto:punith.raj@mca.christuniversity.in)
+*   🧠  I'm learning react native,golang
 
 ### Skills 
 <p align="left">
