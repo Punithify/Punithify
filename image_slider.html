@@ -1,0 +1,41 @@
+<div class="slider">
+  <div class="slide"><img src="image1.jpg" alt="Image 1"></div>
+  <div class="slide"><img src="image2.jpg" alt="Image 2"></div>
+  <div class="slide"><img src="image3.jpg" alt="Image 3"></div>
+</div>
+
+<style>
+  .slider {
+    max-width: 500px;
+    position: relative;
+    margin: 0 auto;
+  }
+
+  .slide {
+    display: none;
+  }
+
+  .slide img {
+    width: 100%;
+    height: auto;
+  }
+</style>
+
+<script>
+  let slideIndex = 0;
+  const slides = document.getElementsByClassName("slide");
+
+  function showSlides() {
+    for (let i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {
+      slideIndex = 1;
+    }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 3000); // Change image every 3 seconds
+  }
+
+  showSlides();
+</script>
