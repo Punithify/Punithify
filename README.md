@@ -10,7 +10,7 @@
 </div>
 <div style="width: 25%; margin-left: 20px;">
   <img src="https://res.cloudinary.com/dnsmfzkcw/image/upload/v1711647808/ctf-revelations/ctf-web_a3k9a0.webp" alt="CTF Web" style="width: 25%; height: auto; margin-bottom: 20px;">
-  <img src="https://res.cloudinary.com/dnsmfzkcw/image/upload/v1700629636/ctf-christ/ctf-logo_zymrjf.jpg" alt="Additional Image" style="width: 25%; height: auto;">
+  <img src="https://res.cloudinary.com/dnsmfzkcw/image/upload/v1700664668/ctf-logo_adobe_3_qln7fh.png" alt="Additional Image" style="width: 25%; height: auto;">
 </div>
 </div>
 
