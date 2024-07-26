@@ -1,6 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-<div>
-
+<div style="width: 70%;">
 
 ### 👋 Hi, I'm Punith Raj S P - Full-Stack Developer & JavaScript Enthusiast!
 ### 🚀 About Me
@@ -9,9 +8,11 @@
 ##### 🤝 Looking to collaborate with fellow content creators. <br/><br/>
 
 </div>
-<img src="https://res.cloudinary.com/dnsmfzkcw/image/upload/v1711647808/ctf-revelations/ctf-web_a3k9a0.webp" alt="CTF Web" style="max-width: 50%; height: auto;">
+<div style="width: 25%; margin-left: 20px;">
+  <img src="https://res.cloudinary.com/dnsmfzkcw/image/upload/v1711647808/ctf-revelations/ctf-web_a3k9a0.webp" alt="CTF Web" style="width: 25%; height: auto; margin-bottom: 20px;">
+  <img src="https://res.cloudinary.com/dnsmfzkcw/image/upload/v1700629636/ctf-christ/ctf-logo_zymrjf.jpg" alt="Additional Image" style="width: 25%; height: auto;">
 </div>
-
+</div>
 
 ## 🔥 Contributions:
 
@@ -22,13 +23,13 @@
 
 ## ✨ Stats
 
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=punithify&show_icons=true&theme=radical)
+![Punith's GitHub stats](https://github-readme-stats.vercel.app/api?username=punithify&show_icons=true&theme=radical)
 
 
 
 
 ## Languages
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=punithify&layout=compact&theme=buefy&hide_border=true&hide_progress=true)
+![Punith's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=punithify&layout=compact&theme=buefy&hide_border=true&hide_progress=true)
 
 ---
 
