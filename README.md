@@ -3,6 +3,7 @@
 
 ### 👋 Hi, I'm Punith Raj S P - Full-Stack Developer & JavaScript Enthusiast!
 ### 🚀 About Me
+##### 👨‍💻 Currently, I am working on a closed source SaaS for web security professionals.
 ##### 🛠️ I love building projects in my free time.
 ##### 🌟 Actively expanding my skills in all areas of technology.
 ##### 🤝 Looking to collaborate with fellow content creators. <br/><br/>
